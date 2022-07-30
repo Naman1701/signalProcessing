@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Progress.dir/main.c.o  -o Progress HelloWorld/libHelloWorld.a processExample/libprocessExample.a 

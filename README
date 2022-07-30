@@ -1,1 +1,4 @@
-This is a git repo named "gitRepo"
+-	This project has various signal processing modules, written in C. 
+-	Every module has an entry function that is called in Main function.
+-	CMakeLists is used to compile and build application. 
+-	CMakeLists creates a library for every module which is eventually gets linked with the main function usinf the TOP CMakeLists.txt.

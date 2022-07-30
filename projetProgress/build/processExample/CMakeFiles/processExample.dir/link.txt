@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprocessExample.a  CMakeFiles/processExample.dir/processExample.c.o
+/usr/bin/ranlib libprocessExample.a

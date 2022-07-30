@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../HelloWorld/hello.h
+
+../processExample/processExample.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/home/naman/Documents/projetProgress/main.c
+hello.h
+/home/naman/Documents/projetProgress/hello.h
+processExample.h
+/home/naman/Documents/projetProgress/processExample.h
+
