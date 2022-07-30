@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/naman/Documents/projetProgress/processExample/processExample.c
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/processExample/processExample.c
 processExample.h
-/home/naman/Documents/projetProgress/processExample/processExample.h
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/processExample/processExample.h
 
-/home/naman/Documents/projetProgress/processExample/processExample.h
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/processExample/processExample.h
 stdio.h
 -
 string.h

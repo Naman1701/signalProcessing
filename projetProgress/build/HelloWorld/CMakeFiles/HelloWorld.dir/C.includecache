@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/naman/Documents/projetProgress/HelloWorld/hello.c
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld/hello.c
 stdio.h
-/home/naman/Documents/projetProgress/HelloWorld/stdio.h
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld/stdio.h
 hello.h
-/home/naman/Documents/projetProgress/HelloWorld/hello.h
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld/hello.h
 
-/home/naman/Documents/projetProgress/HelloWorld/hello.h
+/home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld/hello.h
 

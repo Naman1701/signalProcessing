@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/naman/Documents/projetProgress -I/home/naman/Documents/projetProgress/HelloWorld -I/home/naman/Documents/projetProgress/processExample 
+C_INCLUDES = -I/home/naman/Documents/Repo_signalProcess_C/projetProgress -I/home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld -I/home/naman/Documents/Repo_signalProcess_C/projetProgress/processExample 
 

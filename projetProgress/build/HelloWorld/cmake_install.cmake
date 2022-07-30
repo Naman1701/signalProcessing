@@ -1,4 +1,4 @@
-# Install script for directory: /home/naman/Documents/projetProgress/HelloWorld
+# Install script for directory: /home/naman/Documents/Repo_signalProcess_C/projetProgress/HelloWorld
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/naman/Documents/projetProgress/processExample
+# Install script for directory: /home/naman/Documents/Repo_signalProcess_C/projetProgress/processExample
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/naman/Documents/projetProgress
+# Install script for directory: /home/naman/Documents/Repo_signalProcess_C/projetProgress
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/naman/Documents/projetProgress/build/HelloWorld/cmake_install.cmake")
-  include("/home/naman/Documents/projetProgress/build/processExample/cmake_install.cmake")
+  include("/home/naman/Documents/Repo_signalProcess_C/projetProgress/build/HelloWorld/cmake_install.cmake")
+  include("/home/naman/Documents/Repo_signalProcess_C/projetProgress/build/processExample/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/naman/Documents/projetProgress/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/naman/Documents/Repo_signalProcess_C/projetProgress/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
